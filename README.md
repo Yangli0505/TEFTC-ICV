@@ -19,6 +19,27 @@ The method is developed for intelligent and connected vehicles under practical c
 * **Event-triggered communication**
 * **Vehicle stability and tracking control**
 
+<p align="center">
+  <img src="截屏2026-09-17 23.27.02.png" width="550">
+</p>
+
+<p align="center">
+  <img src="截屏2026-09-17 23.27.12.png" width="550">
+</p>
+
+<p align="center">
+  <img src="截屏2026-09-17 23.27.21.png" width="550">
+</p>
+
+<p align="center">
+  <img src="截屏2026-09-17 23.27.25.png" width="550">
+</p>
+
+<p align="center">
+  <img src="截屏2026-09-17 23.27.51.png" width="550">
+</p>
+
+
 The proposed framework aims to maintain reliable vehicle control performance while reducing unnecessary communication transmissions.
 
 ---
